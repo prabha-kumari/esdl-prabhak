@@ -3,7 +3,7 @@ void main()
 {
   cout<<"Welcome to Github";
   cout<<"my first program";
-  cout<<"square",<<square(" ");
+ 
 }
 double square(double in_num)
 {
